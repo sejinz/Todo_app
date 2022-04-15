@@ -1,0 +1,20 @@
+.TodoTemplate{
+    width: 512px;
+    margin: 6rem auto;
+    border-radius: 4px;
+    overflow: hidden;
+    font-family: "둥근모꼴";
+
+    .app-title{
+        background: rgb(255, 190, 9);
+        color: #fff;
+        height: 4rem;
+        font-size: 1.5rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .content{
+        background: #fff;
+    }
+}
