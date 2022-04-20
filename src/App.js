@@ -9,17 +9,17 @@ function App() {
   const [todos, setTodos] = useState([
     {
       id: 1,
-      text: '운동하기',
+      text: '자바스크립트 공부',
       checked: true,
     },
     {
       id: 2,
-      text: '밥먹기',
+      text: '1시간 운동',
       checked: true,
     },
     {
       id: 3,
-      text: '요리하기',
+      text: '포트폴리오 작성',
       checked: false,
     },
   ]);
@@ -46,7 +46,7 @@ const onRemove = useCallback(id =>{
 
   return (
     <>
-    <div>Todo App 만들기</div>
+    {/* <div>Todo App 만들기</div> */}
     <TodoTemplate>
       <TodoInsert onInsert={onInsert} />
       <TodoList todos={todos} onToggle={onToggle} onRemove={onRemove} />
