@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sejinz/todo_app.git/static/css/main.3cd63722.css",
-    "main.js": "/sejinz/todo_app.git/static/js/main.5cba788a.js",
-    "static/js/787.2843ca88.chunk.js": "/sejinz/todo_app.git/static/js/787.2843ca88.chunk.js",
-    "index.html": "/sejinz/todo_app.git/index.html",
-    "main.3cd63722.css.map": "/sejinz/todo_app.git/static/css/main.3cd63722.css.map",
-    "main.5cba788a.js.map": "/sejinz/todo_app.git/static/js/main.5cba788a.js.map",
-    "787.2843ca88.chunk.js.map": "/sejinz/todo_app.git/static/js/787.2843ca88.chunk.js.map"
+    "main.css": "/todo_app/static/css/main.3cd63722.css",
+    "main.js": "/todo_app/static/js/main.ae2bf1ec.js",
+    "static/js/787.2843ca88.chunk.js": "/todo_app/static/js/787.2843ca88.chunk.js",
+    "index.html": "/todo_app/index.html",
+    "main.3cd63722.css.map": "/todo_app/static/css/main.3cd63722.css.map",
+    "main.ae2bf1ec.js.map": "/todo_app/static/js/main.ae2bf1ec.js.map",
+    "787.2843ca88.chunk.js.map": "/todo_app/static/js/787.2843ca88.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3cd63722.css",
-    "static/js/main.5cba788a.js"
+    "static/js/main.ae2bf1ec.js"
   ]
 }
