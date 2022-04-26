@@ -39,7 +39,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://sejinz.github.io/todo_app",
+  "homepage": "https://sejinz.github.io/todo_app/",
   "devDependencies": {
     "gh-pages": "^3.2.3"
   }
